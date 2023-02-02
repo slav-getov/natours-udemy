@@ -37,7 +37,10 @@ body{
     transform: translate(-50%, -50%);
 }
 .logo-box{
-
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    
 }
 .logo{
     height: 35px;
